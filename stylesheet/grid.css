@@ -1,0 +1,33 @@
+.col-1 {
+	width: 9.67%;
+	float:left;
+}
+.col-2 {
+	width: 19.34%;
+	float:left;
+	display: block;
+}
+.col-3 {
+	width: 29.00%;
+	float:left;
+}
+.col-4 {
+	width: 38.68%;
+	float:left;
+}
+.col-5 {
+	width: 48.35%;
+	float:left;
+}
+.col-6 {
+	width: 58.02%;
+	float:left;
+}
+.col-7 {width: 67.69%;
+float:left;}
+.col-8 {width: 77.36%;
+float:left;}
+.col-9 {width: 87.03%;
+float:left;}
+.col-10 {width: 96.7%;
+float:left;}
